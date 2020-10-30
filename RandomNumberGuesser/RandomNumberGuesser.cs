@@ -1,5 +1,6 @@
 /*
   C# program to generate a random number and recieve user inputted guessing which number
+  Based on youtube video by Frencesco Magliocco, "Creating A Number Guessing Game In C# With Visual Studio 2017", youtube link: https://www.youtube.com/watch?v=IhqdPDPV_g8
 */
 
 using System;

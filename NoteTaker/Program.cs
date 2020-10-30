@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Based on youtube video by SaeThunder, "C# - Create a Note Taking Windows Form Application", youtube link: https://www.youtube.com/watch?v=8vAx0kObdps&feature=emb_title
+
 namespace NoteTaker
 {
     static class Program
